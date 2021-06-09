@@ -27,23 +27,23 @@ the system:
 ** HVDC_VSC folder contains HVDC-VSC type links\
 ** Kriegers-Flak Interconnector contains Kriegers-Flak link and related objects, controls\
 ** Nordic Power System contains Country level modeling\
-** Three-island Topology contains North Sea Wind Power Hub (NSWPH) modeling\
+** Three-island Topology contains North Sea Wind Power Hub (NSWPH) modeling
 
 At any time, 37 out of 38 grids must be active. If it is not the case, load-flow errors might occur.
 
 Two study cases are created: 
 
 ** Scenario 1 with NSWPH low-inertia scenarion active\
-** Scenario 2 with NSWPH zero-inertia scenarion active\
+** Scenario 2 with NSWPH zero-inertia scenarion active
 
 Study cases contain information about parts of the network model(s) considered for calculation, calculation setting,
 study time and calculation result file to be stored for reporting.
 
 The result file contains the following variables:
 
-** >400kV bus voltage\
-** Active power between >400kV buses\
+** >300kV bus voltage\
+** Active power between >300kV buses\
 ** Active power for HVDC links\
 ** Frequency of 10 machines involved in Frequency Containment Reservers in Nordic Power System\
 ** Frequency for Continental Europe and Great Britain equivalent grids\
-** NSWPH related variabels: active power of the offshore converters, hub voltage and frequency, WPP active power\
+** NSWPH related variabels: active power of the offshore converters, hub voltage and frequency, WPP active power
