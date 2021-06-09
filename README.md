@@ -1,7 +1,6 @@
 # NEAC-DCPS-Model
 
 Northern European AC/DC Power System Model
-Version 1
 
 Detailed phasor-approximated, time-domain model of the Nordic countries (Denmark, Norway, Sweden and Finland).
 
