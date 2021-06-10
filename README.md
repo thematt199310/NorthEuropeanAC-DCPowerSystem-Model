@@ -1,6 +1,4 @@
-# Northen European AC-DC Power SystemModel
-
-Northern European AC/DC Power System Model
+# Northen European AC/DC Power SystemModel
 
 Detailed phasor-approximated, time-domain model of the Nordic countries (Denmark, Norway, Sweden and Finland).
 
