@@ -1,4 +1,4 @@
-# NEAC-DCPS-Model
+# Northen European AC-DC Power SystemModel
 
 Northern European AC/DC Power System Model
 
